@@ -1,0 +1,3 @@
+# ninja log v5
+0	2403	1642730031435294775	/home/zzzj/Sources/DCNv2_TRT/build/temp.linux-x86_64-3.6/src/dcn_v2_im2col_cuda.o	7c8539be94235953
+0	18807	1642730047835218872	/home/zzzj/Sources/DCNv2_TRT/build/temp.linux-x86_64-3.6/src/dcn_v2_cuda.o	fc044b4a0fdb04ec

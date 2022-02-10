@@ -1,0 +1,15 @@
+{
+    "root":"/home/awifi/data",
+    "train":
+    {
+        "serhall":"./data/serhall.train"
+    },
+    "test_emb":
+    {
+
+    },
+    "test":
+    {
+        "serhall":"./data/serhall.test"
+    }
+}

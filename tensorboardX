@@ -1,0 +1,4 @@
+1. import tensorboardX () logger.py src/lib
+2. self.writer
+3. function scalar_summary
+4. logger.scalar_summary('train_{}'.format(k), v, epoch)   train.py

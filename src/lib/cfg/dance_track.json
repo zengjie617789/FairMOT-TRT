@@ -1,0 +1,15 @@
+{
+    "root":"/home/awifi/data/DanceTrack",
+    "train":
+    {
+        "serhall":"./data/dance_track.train"
+    },
+    "test_emb":
+    {
+
+    },
+    "test":
+    {
+        "serhall":"./data/dance_track.test"
+    }
+}
